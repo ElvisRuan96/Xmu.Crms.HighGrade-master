@@ -1,0 +1,12 @@
+[submodule "Xmu.Crms.Shared"]
+	path = Xmu.Crms.Shared
+	url = https://github.com/Librazy/Xmu.Crms.Shared.git
+	branch = master
+[submodule "Xmu.Crms.Services.HighGrade"]
+	path = Xmu.Crms.Services.HighGrade
+	url = https://github.com/Young0518/Xmu.Crms.Services.HighGrade.git
+	branch = master
+[submodule "Xmu.Crms.Mobile.HighGrade"]
+	path = Xmu.Crms.Mobile.HighGrade
+	url = https://github.com/Young0518/Xmu.Crms.Mobile.HighGrade.git
+	branch = master
